@@ -1,2 +1,2 @@
-# Aula004---Matem-tica-Aplicada
+# Aula004---Matemática-Aplicada
 Pasta destinada a projetos do RStudio
